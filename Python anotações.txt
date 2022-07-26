@@ -1,0 +1,15 @@
+pyautogui = automatiza (teclado,mouse)
+
+import pyautogui = importa para o python
+
+Ctrl T = abre outra aba no navegador
+
+pyautogui.click --> (clicar) (valor de x e y)
+pyautogui.write --> (escreva)
+pyautogui.press --> (pressione)
+pyautogui.hotkey --> (abrir outra aba)
+pyperclip.copy (copia o link)(hotkey para dar o ctrl V)
+
+pyautogui.position() (da a posição do mouse)
+
+pandas (biblioteca importar bases de dados para o Python)
